@@ -1,4 +1,5 @@
 [![Header](https://github.com/Korolevabala/bash_scripts/blob/master/markdown.jpg)](https://markdown-here.com/)
+[![Picture](https://github.com/Korolevabala/bash_scripts/blob/master/jpg/stepik-certificate-linux_page-0001.jpg)](https://welcome.stepik.org/ru)
 # bash_scripts
 Скрипты на bash. Основы, ветвление, циклы. До чего все это дойдет.
 ## Hello Markdown
